@@ -9,4 +9,4 @@ categories: diary work
 
 이미지 예시:
 
-![접근성 체크 아이콘 설명 이미지](/assets/a11y-check.png)
+![접근성 체크 아이콘 설명 이미지](/assets/2025-06-27 17 23 59.png)
